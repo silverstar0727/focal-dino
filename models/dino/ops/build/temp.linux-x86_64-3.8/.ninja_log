@@ -1,0 +1,4 @@
+# ninja log v5
+0	7803	1669484878974100728	/workspace/FocalNet-DINO/models/dino/ops/build/temp.linux-x86_64-3.8/workspace/FocalNet-DINO/models/dino/ops/src/cpu/ms_deform_attn_cpu.o	fc5b6b8799243f91
+0	27073	1669484898227453279	/workspace/FocalNet-DINO/models/dino/ops/build/temp.linux-x86_64-3.8/workspace/FocalNet-DINO/models/dino/ops/src/vision.o	2bcb30b464f13103
+1	63447	1669484934594008034	/workspace/FocalNet-DINO/models/dino/ops/build/temp.linux-x86_64-3.8/workspace/FocalNet-DINO/models/dino/ops/src/cuda/ms_deform_attn_cuda.o	f4427bf6d6999ab1
